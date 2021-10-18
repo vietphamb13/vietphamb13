@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Viet
+- 👀 I’m interested in Testing (especially Automation)...
+- 🌱 I’m currently learning new techniques to support my career path...
+- 💞️ I’m looking to collaborate with skillful teammates ...
+
+<!---
+vietphamb13/vietphamb13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
